@@ -1,0 +1,6 @@
+﻿  Main.c
+d:\c\project1\main.c(70): warning C4047: 'function': 'CHAR_INFO *' differs in levels of indirection from 'int'
+d:\c\project1\main.c(70): warning C4024: 'put_screen': different types for formal and actual parameter 2
+d:\c\project1\main.c(83): warning C4047: 'function': 'CHAR_INFO *' differs in levels of indirection from 'int'
+d:\c\project1\main.c(83): warning C4024: 'put_screen': different types for formal and actual parameter 2
+  Project1.vcxproj -> D:\c\Project1\Debug\Project1.exe
